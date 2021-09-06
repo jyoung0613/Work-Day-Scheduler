@@ -22,6 +22,8 @@ $(document).ready(function() {
         var text = $(this).siblings(".description").val();
         var time = $(this).parent().attr("id");
 
+        console.log("click")
+
         localStorage.setItem(time, text)
     })
     
