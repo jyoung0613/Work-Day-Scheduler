@@ -2,7 +2,7 @@
 
 ## Function of website - designed to assist you in planning your day, so you can stay on track.
 
-![Alt text](./assets/images/2021-09-05.png?raw=true "WorkDay Scheduler")
+![Alt text](/../<main>/assets/images/WorkDay-Scheduler-Site.jpeg)
 
 ## Programs Used
 * HTML
